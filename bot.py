@@ -2,7 +2,6 @@ import discord
 from discord.ext import commands
 from discord_webhook import DiscordWebhook, DiscordEmbed
 import asyncio
-import yaml
 from time import sleep
 
 TOKEN = "OTA0MzcyODEyODU1Mjc5NjQ2.YX6k0Q.qBHMJNJDjISXkpGBp7MpfyVVJp8"
