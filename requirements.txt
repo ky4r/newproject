@@ -3,7 +3,6 @@ aiogram==2.15
 asgiref==3.4.1
 async-generator==1.10
 async-lru==1.0.2
-async-timeout==3.0.1
 asyncio==3.4.3
 bottle-websocket==0.2.9
 certifi==2021.5.30
