@@ -1,6 +1,6 @@
 from discord.ext import commands; import datetime; import asyncio; import time; import requests; import json; import discord; from discord_webhook import DiscordWebhook, DiscordEmbed
 
-TOKEN = "OTA0MzY5MTEwNzk4OTg3MjY0.YX6hXg.V05nW6TfXeRUlBE0vdUmyCamFZI"
+TOKEN = "OTA0MzcyODEyODU1Mjc5NjQ2.YX6k0Q.qBHMJNJDjISXkpGBp7MpfyVVJp8"
 
 commandsissued = 0
 eauthors = 'Сын Кеши#5072 / QuantoTeam, 2021'
