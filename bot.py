@@ -13,7 +13,7 @@ bot.remove_command('help')
 @bot.event
 async def on_ready():
     print("QUANTOBOT {\} Бот успешно запущен")
-    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name=f"https://discord.gg/HvNDFVfH"))
+    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name=f"https://discord.gg/JKBqCkr"))
 
 @bot.command()
 async def infgenesis(ctx, arg1, arg2):
